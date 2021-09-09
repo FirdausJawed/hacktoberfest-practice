@@ -240,6 +240,7 @@ Hurray! You successfully made a contribution!
   - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
   - [Fatma](https://github.com/fatmab28)
   - [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
+  - [Firdaus Jawed](https://github.com/FirdausJawed)
   - [Franklin Ohaegbulam](https://github.com/frankiefab100)
 
 - ### **G**
